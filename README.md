@@ -1,2 +1,2 @@
 # Python101
-It's code for studying with UncleEngineer in Python 101
+This is code for studying with UncleEngineer in Python 101
