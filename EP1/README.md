@@ -1,4 +1,4 @@
-This is the code to use Library Turtle to draw the Python
+This is the code to use Library Turtle to draw in Python
 ---------------------------------------------------------
 I use Library Turtle for drawing Logo Minecraft!!
 
