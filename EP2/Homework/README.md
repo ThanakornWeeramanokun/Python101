@@ -1,6 +1,6 @@
 # I created a random food program
 
-Simple creation process is
+**Simple creation process is**
 - 1. Create a list of all food items. Divided into names And image files Keep it in the form of. JSON file extensions to make it easier to use data.
 - 2. Create a label for the program name.
 - 3. Create a label for food items.
