@@ -1,0 +1,2 @@
+name = 'thanakorn'
+lastname = 'weeramanokun'
